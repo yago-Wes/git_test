@@ -1,0 +1,82 @@
+ @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Press+Start+2P&display=swap');
+ 
+ html, body {
+        margin: 0;
+        height: 100%;
+        
+    }
+
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ width: 500px;
+ height: 500px;
+ background-color: blue;
+ display: flex;
+ margin: 0;
+ height: 100%;
+ width:100%;
+}
+.Area-contador{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#plu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-style: outset;
+    border-radius: 5px;
+    font-family: 'Bungee Spice', sans-serif;
+    font-size: 25px;
+    cursor: default;
+}
+#acc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    width: 150px;
+    height: 50px;
+    border-style: outset;
+    border-radius: 5px;
+    margin: 20px;
+    font-family: 'Press Start 2P', system-ui;
+    cursor: default;
+
+
+}
+#less{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: yellow;
+    width: 50px;
+    height: 50px;
+    border-style: outset;
+    border-radius: 5px;
+    font-family: 'Bungee Spice', sans-serif;
+    font-size: 25px;
+    cursor: default;
+}
+h1{
+    display: flex;
+    justify-self;    
+    font-family: 'Bungee Spice', sans-serif;
+
+}
+
+
+
